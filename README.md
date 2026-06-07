@@ -68,7 +68,7 @@ End-to-end analysis on a mobile app usage dataset using **Python and MySQL** —
 ## 📊 Dashboards
 
 ### Dashboard 1 — Deep Analytics Dashboard
-![Analysis Dashboard](charts/analysis_dashboard.png)
+![Dashboard 1](https://raw.githubusercontent.com/Tushar-Khabrani/app-usage-behavior-analysis/main/charts/analysis_dashboard.png)
 
 8-panel dashboard covering:
 - Top 15 apps by total time (Google: 126.58M · GoogleServices: 16.11M · HTTP: 14.47M)
@@ -81,7 +81,7 @@ End-to-end analysis on a mobile app usage dataset using **Python and MySQL** —
 - Top 10 apps — Time vs Data side-by-side comparison
 
 ### Dashboard 2 — Distribution & Deep Insights
-![Analysis Deep](charts/analysis_deep.png)
+![Dashboard 2](https://raw.githubusercontent.com/Tushar-Khabrani/app-usage-behavior-analysis/main/charts/analysis_deep.png)
 
 6-panel deep insights covering:
 - Distribution of total time per user (Mean: 0.18M) — right-skewed
